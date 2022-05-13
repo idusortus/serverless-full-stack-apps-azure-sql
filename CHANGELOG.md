@@ -8,7 +8,7 @@
 
 *Bug Fixes*
 * ...
-* updated action secret from dev to master
+* updated action secret to point to bus-db
 
 *Breaking Changes*
 * ...
