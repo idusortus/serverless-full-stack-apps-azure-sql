@@ -8,6 +8,7 @@
 
 *Bug Fixes*
 * ...
+* updated action secret from dev to master
 
 *Breaking Changes*
 * ...
